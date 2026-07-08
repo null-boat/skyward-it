@@ -1,0 +1,5 @@
+Hi {Name of Customer},
+
+I am reaching out to you regarding your device needing to be upgraded from Windows 10 to Windows 11. The process will take approximately 1 ½ hours to 2 hours to complete. During the time of installation, you will still be able to work on your device as normal; however, I will be monitoring the upgrade to ensure that it installs properly. 
+
+Please let me know when your best availability would be for me to perform this upgrade.
