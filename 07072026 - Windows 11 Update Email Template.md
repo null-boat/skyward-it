@@ -1,9 +1,13 @@
 **First Email:** 
 Hi {Name of Customer},
 
-I am reaching out to you regarding your device needing to be upgraded from Windows 10 to Windows 11. The process will take approximately 1 ½ hours to 2 hours to complete. During the time of installation, you will still be able to work on your device as normal; however, I will be monitoring the upgrade to ensure that it installs properly. 
+Our records indicate that your device is currently running Windows 10 and is eligible for an upgrade to Windows 11. To ensure your device remains supported, secure, and up to date, we would like to schedule this upgrade at a time that is convenient for you.
 
-Please let me know when your best availability would be for me to perform this upgrade.
+The upgrade process typically takes approximately **1.5 to 2 hours** to complete. During most of the installation, you will be able to continue working as usual; however, I will be monitoring the upgrade to ensure it installs successfully and to address any issues that may arise.
+
+Before we begin, your device will need to be restarted. Please make sure to save your work and close any open applications prior to the scheduled upgrade time to prevent any loss of unsaved data.
+
+Please let me know your availability, and I will be happy to schedule the upgrade at a time that is convenient for you.
 
 ---
 
