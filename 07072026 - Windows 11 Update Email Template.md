@@ -18,6 +18,15 @@ Best regards,
 
 ---
 
+**When Notifying Client About Remote Desktop**
+Hi {Customer Name},
+
+Okay, sounds great. I'll be remoting onto your device shortly.
+
+Thank you in advance,
+
+---
+
 - It is important to notify the client when you will be connecting to their computer.
 
 - Sometimes if a client has not rebooted his computer for a while, the installer may take a lot longer than it should during Step 3 of the installation. So **MAKE SURE TO REBOOT ALWAYS BEFORE PROCEEDING WITH UPGRADE!!** 
