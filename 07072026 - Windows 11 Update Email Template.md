@@ -7,21 +7,10 @@ Please let me know when your best availability would be for me to perform this u
 
 ---
 
-**When Client Responds**:
-Hi {Customer Name},
-
-Great! I'll be connecting to your desktop shortly.
-
-Thank you in advance.
-
-Best regards, 
-
----
-
 **When Notifying Client About Remote Desktop**
 Hi {Customer Name},
 
-Okay, sounds great. I'll be remoting onto your device shortly.
+Okay, sounds great. I'll be connecting to your device via Remote Desktop shortly.
 
 Thank you in advance,
 
