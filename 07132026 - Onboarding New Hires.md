@@ -10,7 +10,7 @@ Typically you would:
 		![[Pasted image 20260713170043.png]]
 2. On their Active Directory, you want to right click on the folder of Active Users, then click **New** → **User**
 3. Add the new hire's first and last name
-4. User logon name follows the format: {**first name initial**}{**last name**}@companydomain.com
+4. User logon name follows the format: {**first name initial**}{**last name**}\@companydomain.com
 	- Make sure that the domain does not end with "**.local**"
 	- ex) John Henry would be jhenry@reflowmedical.com
 5. After creating, double click on the new user in the list of users in AD
