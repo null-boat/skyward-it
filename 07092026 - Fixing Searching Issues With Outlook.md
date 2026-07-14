@@ -18,6 +18,14 @@ This can be done by:
 
 ---
 
+When you adjust sync settings on the Outlook application, it will need time to download emails. Depending on the time range, it can take a while. 
+
+While it's downloading emails, users will find that they cannot retrieve new emails unless they restart Outlook. Again, this is because Outlook is still downloading the past emails. 
+
+Make sure to let the customer know about this and advise them to use Outlook on their browser in the meantime in order to be updated on their emails.
+
+---
+
 References:
 - https://learn.microsoft.com/en-us/answers/questions/5708103/why-can-i-not-see-all-the-emails-when-i-am-searchi
 - https://support.microsoft.com/en-us/outlook/fix-search-issues-by-rebuilding-your-instant-search-catalog
